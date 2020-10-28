@@ -1,1 +1,2 @@
-# Parallel-and-Distributed-Computing-
+# Parallel and Distributed Computing
+Contains codes for some of the basic parallel implementations
